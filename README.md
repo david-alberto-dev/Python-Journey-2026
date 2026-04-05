@@ -1,17 +1,3 @@
-# Python & AI Engineering Journey 🚀
+I'm just getting started with Python. My goal is to get good at it and get into AI Engineering. This repository contains all miniprojects I built throughout my journey and represents my progress every single day. I use PyCharm, git, GitHub and Warp on a Macbook.
 
-This repository represents my path toward becoming a professional developer. My goal is to be an AI Engineer, so I'm getting started with basics.
-
-## 🎯 Goals
-* **April:** Python Basics.
-* **May:** Advanced Data Structures and automatizations.
-* **June-July:** Data Science & Machine Learning (Kaggle & DeepLearning.AI).
-* **August-September:** Generative AI & Integrare LLM (for startups).
-
-## 🛠️ Tech Stack
-* **Language:** Python 3.14+
-* **Environment:** PyCharm on a Mac
-* **Version Control:** Git & GitHub
-
-## 📈 Progress
-I will publish my progress every single day, no matter how little, I prefer little progress over zero progress.
+My approach is: I learn a concept (or multiple of them) and build a miniproject in which said concepts are applied.
