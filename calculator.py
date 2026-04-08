@@ -1,5 +1,5 @@
 """
-Simple calculator made with Python
+Miniproject #1: Simple Calculator
 """
 
 while True:
