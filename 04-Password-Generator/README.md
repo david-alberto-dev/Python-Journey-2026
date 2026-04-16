@@ -1,14 +1,18 @@
 # 🔐 Secure Password Generator
 
 ## ⚡ What does it do?
-Python script that generates passwords that include at least one lowercase, one uppercase, one digit, and one symbol.
-For enhanced security, length is 4-128 characters long, and uses random.shuffle() to ensure the structure is entirely random and unpredictable.
-It effectively handles errors when taking user input and allows you to generate as many passwords as you wish.
+- Generates passwords that include at least one lowercase, one uppercase, one digit, and one symbol.
+- For enhanced security, length is 4-128 characters long, and uses random.shuffle() to ensure the structure is entirely random and unpredictable.
+- Effectively handles errors when taking user input and allows you to generate as many passwords as you wish.
 
 ## 🛠️ Tech Stack
-Written in Python v3.14.0 using random and string modules. The former is for logic and the latter is for data.
+**Language:** Python v3.14.0 using random (for logic) and string (for data) modules.
 
-## 🚀 Run it
+## 🚀 Usage
 ```bash
-python3 password_generator.py
+git clone https://github.com/david-alberto-dev/Python-Journey-2026/tree/main/04-Password-Generator/
+
+cd 04-Password-Generator
+
+python3 password-generator.py
 ```
