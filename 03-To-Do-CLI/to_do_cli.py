@@ -1,5 +1,5 @@
 """
-Miniproject #3: To Do App
+Mini-project #3: To Do App
 """
 
 tasks = []
