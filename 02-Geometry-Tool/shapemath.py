@@ -1,5 +1,5 @@
 """
-Miniproject #2: Area & Volume Calculator
+Mini-project #2: Area & Volume Calculator
 """
 import math
 
