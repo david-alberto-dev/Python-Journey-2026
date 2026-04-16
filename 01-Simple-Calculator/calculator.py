@@ -1,5 +1,5 @@
 """
-Miniproject #1: Simple Calculator
+Mini-project #1: Simple Calculator
 """
 
 while True:
