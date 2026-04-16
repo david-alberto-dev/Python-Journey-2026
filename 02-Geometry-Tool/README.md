@@ -18,5 +18,7 @@ Finally, a dedicated function exists to ensure inputs are always positive numeri
 ```Bash
 git clone https://github.com/david-alberto-dev/Python-Journey-2026/tree/main/02-Geometry-Tool/
 
+cd 02-Geometry-Tool
+
 python3 shapemath.py
 ```
