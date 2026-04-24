@@ -19,7 +19,7 @@ A terminal-based task management tool that allows users to organize their daily 
 ```bash
 git clone https://github.com/david-alberto-dev/Python-Journey-2026/tree/main/03-To-Do-CLI/
 
-cd 03-To-Do-CLI
+cd 01_todo_list
 
-python3 to_do_cli.py
+python3 todo_list.py
 ```

@@ -12,7 +12,7 @@
 ```bash
 git clone https://github.com/david-alberto-dev/Python-Journey-2026/tree/main/04-Password-Generator/
 
-cd 04-Password-Generator
+cd 03-Password-Generator
 
 python3 password-generator.py
 ```
