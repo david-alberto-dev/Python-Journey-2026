@@ -5,13 +5,13 @@ This repository contains all miniprojects I built throughout my journey and repr
 ## 🌟 Overview
 ### 🧮 Simple Calculator & 📐 Geometry Tool (Merged into [ShapeMath](https://github.com/david-alberto-dev/Shape-Math-Calculator))
 ### 📋 ToDo List
-### 💻 Password Generator
+### 🛡️ Password Generator
 ### 💰 Expense Tracker
 ### ⏳ Countdown Timer
 ### 🪎 Simple Game Inventory System
 
 ## 🛠️ Tech Stack
-- **Language:** Python v3.14+
+- **Language:** 🐍 Python v3.14+
 - **IDE:** PyCharm
 - **Version Control:** Git & GitHub
 - **Machine:** Macbook Pro
