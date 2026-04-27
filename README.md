@@ -1,3 +1,17 @@
-I'm just getting started with Python. My goal is to get good at it and get into AI Engineering. This repository contains all miniprojects I built throughout my journey and represents my progress every single day. I use PyCharm, git, GitHub and Warp on a Macbook.
+# ✈️ Python Journey 2026
+I started learning Python in April 2026. To avoid any burnouts caused by tutorial hell, as soon as I learned a concept, I built a miniproject applying that immediately.
+This repository contains all miniprojects I built throughout my journey and represents my progress.
 
-My approach is: I learn a concept (or multiple of them) and build a miniproject in which said concepts are applied.
+## 🌟 Overview
+### 🧮 Simple Calculator & 📐 Geometry Tool (Merged into [ShapeMath](https://github.com/david-alberto-dev/Shape-Math-Calculator))
+### 📋 ToDo List
+### 💻 Password Generator
+### 💰 Expense Tracker
+### ⏳ Countdown Timer
+### 🪎 Simple Game Inventory System
+
+## 🛠️ Tech Stack
+- **Language:** Python v3.14+
+- **IDE:** PyCharm
+- **Version Control:** Git & GitHub
+- **Machine:** Macbook Pro
