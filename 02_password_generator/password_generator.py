@@ -1,7 +1,3 @@
-"""
-Mini-project #4: Password Generator
-"""
-
 import string, random
 
 # setup
