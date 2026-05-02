@@ -4,12 +4,11 @@ This repository contains all miniprojects I built throughout my journey and repr
 
 ## 🌟 Overview
 #### 🧮 Simple Calculator & 📐 Geometry Tool (Merged into [ShapeMath](https://github.com/david-alberto-dev/Shape-Math-Calculator))
-#### 📋 To Do List
-#### 🛡️ Password Generator
-#### 💰 Expense Tracker
-#### ⏳ Countdown Timer
-#### 🪎 Simple Game Inventory System
-### 🎥 YouTube Video Downloader
+#### 📋 [To Do List](https://github.com/david-alberto-dev/Python-Journey-2026/tree/main/01_todo_list)
+#### 🛡️ [Password Generator](https://github.com/david-alberto-dev/Python-Journey-2026/tree/main/02_password_generator)
+#### 💰 [Expense Tracker](https://github.com/david-alberto-dev/Python-Journey-2026/tree/main/03_expense_tracker)
+#### ⏳ [Countdown Timer](https://github.com/david-alberto-dev/Python-Journey-2026/tree/main/04_countdown_timer)
+#### 🪎 [Simple Game Inventory System](https://github.com/david-alberto-dev/Python-Journey-2026/tree/main/05_game_inventory)
 
 ## 🧰 Tech Stack
 - **Language:** 🐍 Python v3.14+
@@ -18,13 +17,16 @@ This repository contains all miniprojects I built throughout my journey and repr
 - **Machine:** Macbook Pro
 
 ## 📥 Installation & Usage
-First, clone the repository
+To explore the projects, you must clone the entire repository and navigate to the main folder:
 ```bash
 git clone https://david-alberto-dev/Python-Journey-2026.git
+
 cd Python-Journey-2026/
 ```
 
-Now you enter the folder of the dedicated miniproject you want, for example:
+Each project is located in its own directory. For specific instructions on how to run a project, please navigate to its folder and check the local README.md
+
+Example, running the first miniproject:
 ```bash
 cd 01_todo_list/
 python3 todo_list.py
