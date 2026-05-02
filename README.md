@@ -3,7 +3,7 @@ I started learning Python in April 2026. To avoid any burnouts caused by tutoria
 This repository contains all miniprojects I built throughout my journey and represents my progress.
 
 ## 🌟 Overview
-#### 🧮 Simple Calculator & 📐 Geometry Tool (Merged into [ShapeMath](https://github.com/david-alberto-dev/Shape-Math-Calculator))
+#### 🧮 Simple Calculator & Geometry Tool (Merged into [ShapeMath](https://github.com/david-alberto-dev/Shape-Math-Calculator))
 #### 📋 [To Do List](https://github.com/david-alberto-dev/Python-Journey-2026/tree/main/01_todo_list)
 #### 🛡️ [Password Generator](https://github.com/david-alberto-dev/Python-Journey-2026/tree/main/02_password_generator)
 #### 💰 [Expense Tracker](https://github.com/david-alberto-dev/Python-Journey-2026/tree/main/03_expense_tracker)
