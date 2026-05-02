@@ -34,4 +34,4 @@ python3 password_generator.py
 ```
 
 ## 📄 License
-MIT License.
+This project is licensed under the **MIT License.**
