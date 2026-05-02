@@ -1,7 +1,3 @@
-"""
-Mini-project #5: Expense Tracker
-"""
-
 expenses = []
 
 def show_expenses():
