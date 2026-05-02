@@ -1,7 +1,3 @@
-"""
-Mini-project #1: To Do App
-"""
-
 tasks = []
 
 def show_tasks():
