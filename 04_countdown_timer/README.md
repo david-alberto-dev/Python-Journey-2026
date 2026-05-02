@@ -1,4 +1,4 @@
-# ⏳ Terminal Countdown Timer
+# ⏳ Countdown Timer
 A simple CLI countdown tool built with Python, featuring real-time terminal updates and robust input validation.
 
 This project was a deep dive into Buffer Management and Terminal Control Characters, ensuring a professional look without cluttering the console history.
