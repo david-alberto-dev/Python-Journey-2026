@@ -1,25 +1,34 @@
-# 📝 Simple To-Do App
-A terminal-based task management tool that allows users to organize their daily activities through a clean Command Line Interface (CLI).
+# 📝 Simple To Do App
+A terminal-based To Do app which allows users to manage their tasks.
 
-# ⚡ What does it do?
-**Task Management:** Create, view, and delete tasks in real-time.
+## ⭐️ Features
+**Task Management:** Full CRUD (Create, Read, Delete) functionality for your daily tasks.
 
-**Smart Indexing:** Automatically numbers tasks for easy identification and selection.
+**Smart Indexing:** Automatically re-numbers the list after each deletion to maintain a clean sequence.
 
-**Error Handling:** Prevents crashes caused by invalid user input.
+**Robust Error Handling:** Specifically designed to handle invalid string or integer inputs without crashing.
 
 **User Confirmation:** Safety check before exiting the program to prevent accidental data loss.
 
-# 🛠️ Tech Stack
-**Language:** Python v3.14.0
+## 🛠️ Tech Stack
+- **Language:** Python v3.14+
+- **Focus:** Input Validation & List Manipulation
 
-**Concepts:** List manipulation, match-case statements, enumerate() for indexing, and loop control flow.
-
-# 🚀 Run
+## 🚀 Installation & Usage
+1. Clone the repository
 ```bash
-git clone https://github.com/david-alberto-dev/Python-Journey-2026/tree/main/03-To-Do-CLI/
+git clone https://github.com/david-alberto-dev/Python-Journey-2026.git
+```
 
-cd 01_todo_list
+2. Navigate to the directory
+```bash
+cd Python-Journey-2026/01_todo_list/
+```
 
+3. Run the program
+```bash
 python3 todo_list.py
 ```
+
+## 📄 License
+This project is licensed under the **MIT License.**
