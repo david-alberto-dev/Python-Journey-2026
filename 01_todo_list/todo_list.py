@@ -36,13 +36,13 @@ while True:
                 continue
             else:
                 try:
-                    deleted_task_index = int(input("Enter task index to delete: "))
-                    real_index = deleted_task_index - 1
-                    if deleted_task_index < 0 or deleted_task_index >= len(tasks):
+                    del_idx = int(input("Enter task index to delete: "))
+                    del_idx -= 1
+                    if del_idx < 0 or del_idx >= len(tasks):
                         print("Invalid index. Try again.")
                         continue
                     else:
-                        deleted_task = tasks.pop(real_index)
+                        deleted_task = tasks.pop(del_idx)
                         print(f"Task deleted: {deleted_task}")
                         continue
                 except ValueError:
@@ -56,5 +56,5 @@ while True:
             else:
                 continue
         case _:
-            print("Invalid option. Try to enter a number from 1 to 4.")
+            print("Invalid input. Please enter the number of the task you want to delete.")
             continue
