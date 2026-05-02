@@ -3,12 +3,12 @@ I started learning Python in April 2026. To avoid any burnouts caused by tutoria
 This repository contains all miniprojects I built throughout my journey and represents my progress.
 
 ## 🌟 Overview
-#### 🧮 Simple Calculator & Geometry Tool (Merged into [ShapeMath](https://github.com/david-alberto-dev/Shape-Math-Calculator))
 #### 📋 [To Do List](https://github.com/david-alberto-dev/Python-Journey-2026/tree/main/01_todo_list)
 #### 🛡️ [Password Generator](https://github.com/david-alberto-dev/Python-Journey-2026/tree/main/02_password_generator)
 #### 💰 [Expense Tracker](https://github.com/david-alberto-dev/Python-Journey-2026/tree/main/03_expense_tracker)
 #### ⏳ [Countdown Timer](https://github.com/david-alberto-dev/Python-Journey-2026/tree/main/04_countdown_timer)
 #### 🪎 [Simple Game Inventory System](https://github.com/david-alberto-dev/Python-Journey-2026/tree/main/05_game_inventory)
+### 🧮 [PyShape Calculator](https://github.com/david-alberto-dev/Python-Journey-2026/tree/main/06_pyshape_calc)
 
 ## 🧰 Tech Stack
 - **Language:** 🐍 Python v3.14+
