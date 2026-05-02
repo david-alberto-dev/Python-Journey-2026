@@ -8,7 +8,7 @@ This repository contains all miniprojects I built throughout my journey and repr
 #### 💰 [Expense Tracker](https://github.com/david-alberto-dev/Python-Journey-2026/tree/main/03_expense_tracker)
 #### ⏳ [Countdown Timer](https://github.com/david-alberto-dev/Python-Journey-2026/tree/main/04_countdown_timer)
 #### 🪎 [Simple Game Inventory System](https://github.com/david-alberto-dev/Python-Journey-2026/tree/main/05_game_inventory)
-### 🧮 [PyShape Calculator](https://github.com/david-alberto-dev/Python-Journey-2026/tree/main/06_pyshape_calc)
+#### 🧮 [PyShape Calculator](https://github.com/david-alberto-dev/Python-Journey-2026/tree/main/06_pyshape_calc)
 
 ## 🧰 Tech Stack
 - **Language:** 🐍 Python v3.14+
